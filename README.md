@@ -1,4 +1,4 @@
-This is the crack data set used in the articel "A crack detection algorithm based on image classification and connected domain criteria".
+This is the crack data set used in the articel "ConvNeXt-based Monocular Crack Detection and Measurement Algorithm for Concrete Pavements".
 
 If you want to use this data set, we recommend that you quote our paper.
 
