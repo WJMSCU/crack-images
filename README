@@ -1,0 +1,12 @@
+This repository contains an image dataset that has been collected and curated by College of Water Resources & Hydropower, Sichuan University.
+
+This data set is  primarily intended for academic research. It has been referenced in our published paper titled "Monocular Camera Algorithm for Accurate Pavement Crack Measurement: A Deep Learning and Differential Denoising Framework" and is now being made available for public use through this GitHub repository.
+paper DOI:
+
+We kindly request that you acknowledge the source of the data set in any publications or presentations that utilize it. If you want to use this data set, we recommend that you cite our paper and star this repository.
+
+Dataset intrduction: A total of 2643 RGB images without crack and 429 RGB images with crack are included, with a resolution of 224×224.
+
+If you have any questions or need further information, please contact us at yaoqiang777@126.com. We are happy to assist you.
+
+Note: To use this dataset, simply clone this repository and navigate to the data folder. You can use the images for research, educational purposes, or any other non-commercial use. If you wish to use it for commercial purposes, please contact us for a separate license.
